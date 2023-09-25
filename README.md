@@ -95,6 +95,19 @@ Efficient IoT data routing is not only essential for smart cities but also for v
 
 3. **Machine Learning:**
    - **TensorFlow or PyTorch:** For implementing machine learning models if needed for packet prioritization.
+   - **Attribute Descriptions:**
+     - `sort_id`: An identifier or index for sorting the data.
+     - `date_d_m_y`: Date in the format day-month-year.
+     - `time`: Time of the recorded data.
+     - `sensor_id`: Identifier for the sensor generating the data.
+     - `sensor_type`: Type or category of the sensor.
+     - `temp_C`: Temperature in degrees Celsius.
+     - `hpa_div_4`: Air pressure (possibly divided by 4 for representation).
+     - `batterylevel`: Battery level of the sensor.
+     - `sensor_cycle`: Cycle or frequency at which the sensor collects data.
+     - `urgency`: The output parameter which decides which type the packet should be categorised.
+
+
 
 ### Multilevel Feedback Queue (MLFQ) Scheduling
 
