@@ -1,5 +1,3 @@
-# Optimization-of-IoT-Routing-Protocols
-
 **Problem Statement:**
 
 In the domain of Internet of Things (IoT) networks, ensuring optimal data routing is essential to maximize resource efficiency, minimize latency, and conserve energy. Current IoT routing protocols often struggle to adapt to the dynamic nature of IoT devices and the diverse data generated. To address this challenge, our project introduces a methodology that combines Multilevel Feedback Queue Scheduling (MLFQ) for packet prioritization with Dijkstra's algorithm for path selection. This approach is designed to elevate IoT network performance by proficiently managing data packet prioritization and routing.
@@ -66,3 +64,37 @@ Efficient IoT data routing is not only essential for smart cities but also for v
 10. **Wearable Technology:**
     - **Fitness Tracking:** Prioritize health and fitness data from wearable devices for users and healthcare providers.
     - **Location Services:** Efficiently route location data from wearables for navigation and location-based services.
+
+
+
+**Tech Stacks and Algorithm Used:**
+
+**Data Analysis and Packet Prioritization:**
+
+1. **Programming Languages:**
+   - **Python:** Often used for data analysis and machine learning tasks due to its extensive libraries (e.g., Pandas, NumPy, SciPy).
+   
+2. **Data Analysis Libraries and Data Visualization:**
+   - **Pandas:** For data manipulation and analysis.
+   - **NumPy:** For numerical operations.
+   - **Scikit-Learn:** For machine learning and scoring models.
+   - **Matplotlib:** For creating static, animated, and interactive visualizations.
+
+4. **Machine Learning :**
+   - **TensorFlow or PyTorch:** For implementing machine learning models if needed for packet prioritization.
+
+
+**Multilevel Feedback Queue (MLFQ) Scheduling:**
+
+1. **Programming Language:**
+   - **Java/Pythob:** MLFQ scheduling is typically implemented in lower-level languages for efficient system-level scheduling.
+
+
+**Coding Part of Dijkstra's Algorithm:**
+
+1. **Programming Language:**
+   - **Java/Python:** Dijkstra's algorithm can be implemented in various languages.
+
+2. **Graph Data Structures:**
+   - **Adjacency Matrix or Adjacency List:** To represent the network topology.
+
