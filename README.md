@@ -190,7 +190,3 @@ These directions offer simplified paths for further development and research in 
 - **Space Complexity:** Generally linear with respect to the number of processes, O(N).
 
 It's important to consider that these are theoretical complexities, and practical efficiency may vary based on implementation details and specific use cases. Conducting performance testing and profiling is essential to evaluate the practical efficiency of these algorithms in your specific context.
-
----
-
-Feel free to use and adapt this README template for your project documentation.
