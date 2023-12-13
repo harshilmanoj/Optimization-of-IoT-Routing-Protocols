@@ -1,7 +1,3 @@
-Certainly, here's the content formatted for a README file:
-
----
-
 # IoT Routing Optimization Project
 
 ## Problem Statement
